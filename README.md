@@ -1,4 +1,6 @@
 # Sales_Insights
 Sales Insights Dashboard using PowerBI and MySQL
 
-![image](https://github.com/user-attachments/assets/1ea4580b-e327-4386-a6d2-6bb2aed703c0)
+![image](https://github.com/user-attachments/assets/c5494516-1a7e-45f0-987f-51f3f6fcbb99)
+
+
