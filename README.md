@@ -12,3 +12,7 @@ Sales Insights New Dashboard using PowerBI and MySQL
 
 
 
+Sales Insights New_1 Dashboard using PowerBI and MySQL
+
+
+![image](https://github.com/user-attachments/assets/a5aa2701-0b86-491a-8bac-7143679ede3e)
